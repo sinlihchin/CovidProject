@@ -20,7 +20,7 @@ Write SQL query to:
 ## Code and Resources Used
 
 **Software used:** MS SQL Server Management Studio  
-**Data set:** [Our World In Data's COVID Deaths dataset](https://ourworldindata.org/covid-deaths)  
+**Data set:** [Our World In Data's COVID Deaths dataset](https://ourworldindata.org/covid-deaths), [AlexTheAnalyst Repo](https://github.com/AlexTheAnalyst/PortfolioProjects)  
 **Video guide:** [SQL Data Exploration](https://youtu.be/qfyynHBFOsM)
 
 ## Data Overview
